@@ -1,0 +1,35 @@
+.article-content,
+.prose {
+max-width: 100% !important;
+}
+
+
+/* Header (title area) */
+#single_header {
+max-width: 100% !important;
+}
+
+
+/* Main article content */
+.article-content {
+max-width: 100% !important;
+}
+
+
+/* Footer */
+article footer {
+max-width: 100% !important;
+}
+
+
+/* Safety net: kill max-w-prose everywhere */
+.max-w-prose {
+max-width: 100% !important;
+}
+
+.homepage-avatar {
+width: 160px;
+height: 160px;
+border-radius: 9999px;
+margin: 0 auto 1rem;
+}
