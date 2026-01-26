@@ -6,6 +6,8 @@ tags: ["Hardstyle", "DBSTF", "Ran-D"]
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7aIgUTEPXjRH19raLJwRMG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Notes: This is just a test article but one day I'll actually review this track
+
 Hello there. This is my very first article, so I'm going to add a lot of stuff here to test out how to make static website with Blowfish. 
 
 Let's try adding an image. Boom!

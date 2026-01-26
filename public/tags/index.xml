@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Tags (both hardstyle and anime tags) on gebt1000&#39;s blog</title>
+    <title>Tags on gebt1000&#39;s blog</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in All Tags (both hardstyle and anime tags) on gebt1000&#39;s blog</description>
+    <description>Recent content in Tags on gebt1000&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 gebt1000</copyright>
@@ -30,11 +30,41 @@
     </item>
     
     <item>
+      <title>Galactixx</title>
+      <link>http://localhost:1313/tags/galactixx/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/galactixx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hardstyle</title>
+      <link>http://localhost:1313/tags/hardstyle/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hardstyle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Iyashikei</title>
       <link>http://localhost:1313/tags/iyashikei/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/iyashikei/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NSCLT</title>
+      <link>http://localhost:1313/tags/nsclt/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nsclt/</guid>
       <description></description>
       
     </item>
@@ -55,16 +85,6 @@
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/dbstf/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hardstyle</title>
-      <link>http://localhost:1313/tags/hardstyle/</link>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/hardstyle/</guid>
       <description></description>
       
     </item>
