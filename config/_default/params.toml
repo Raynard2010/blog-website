@@ -107,7 +107,7 @@ customCSS = ["css/custom.css"]
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = false
   cardView = true
@@ -125,7 +125,7 @@ customCSS = ["css/custom.css"]
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = true
+  cardView = false
 
 [term]
   showHero = false
@@ -135,7 +135,7 @@ customCSS = ["css/custom.css"]
   showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 [firebase]

@@ -1,7 +1,7 @@
 ---
 title: "D-Block & S-te-Fan x Ran-D - Shivers"
 date: 2026-01-24
-tags: ["Hardstyle", "D-Block & S-te-Fan", "Ran-D"]
+tags: ["Hardstyle", "DBSTF", "Ran-D"]
 ---
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7aIgUTEPXjRH19raLJwRMG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
