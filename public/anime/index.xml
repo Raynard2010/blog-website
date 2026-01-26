@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 gebt1000</copyright>
-    <atom:link href="http://localhost:1313/anime/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/anime/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Non Non Biyori Review</title>
+      <link>http://localhost:1313/anime/non-non-biyori/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/anime/non-non-biyori/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/anime/non-non-biyori/featured.jpg" />
+    </item>
     
   </channel>
 </rss>
