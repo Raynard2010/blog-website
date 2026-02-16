@@ -1,6 +1,6 @@
 ---
 title: "Noisecontrollers -  Dying For A Light Review"
-date: 2026-01-27 #edit later
+date: 2026-02-16
 tags: ["Hardstyle", "Noisecontrollers"]
 featuredImage: "featured.jpg"
 ---
