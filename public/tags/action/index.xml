@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action on gebt1000&#39;s blog</title>
+    <link>http://localhost:1313/tags/action/</link>
+    <description>Recent content in Action on gebt1000&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 gebt1000</copyright>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shiboyugi: Playing Death Games to Put Food on the Table Review</title>
+      <link>http://localhost:1313/anime/shiboyugi/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/anime/shiboyugi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/anime/shiboyugi/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
